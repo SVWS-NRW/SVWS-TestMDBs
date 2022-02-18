@@ -1,0 +1,4 @@
+Nummern für die Jqhrgänge in den TestfallJson!
+
+E1 = Jahrgang 5
+Q4 = Jahrgang 6
