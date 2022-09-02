@@ -1935,7 +1935,7 @@ INSERT INTO Stundenplan_UnterrichtLehrer(ID, Unterricht_ID, Lehrer_ID) VALUES
 (817, 817, 1);
 
 
-INSERT INTO stundenplan_unterrichtraum(ID, Unterricht_ID, Raum_ID) VALUES
+INSERT INTO Stundenplan_UnterrichtTaum(ID, Unterricht_ID, Raum_ID) VALUES
 (1, 1, 27),
 (2, 2, 30),
 (3, 3, 36),
