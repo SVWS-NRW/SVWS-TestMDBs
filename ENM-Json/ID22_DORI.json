@@ -1,0 +1,6749 @@
+{
+  "enmRevision": -1,
+  "schulnummer": 123456,
+  "schuljahr": 2021,
+  "anzahlAbschnitte": 4,
+  "aktuellerAbschnitt": 4,
+  "publicKey": null,
+  "lehrerID": 22,
+  "fehlstundenEingabe": true,
+  "fehlstundenSIFachbezogen": false,
+  "fehlstundenSIIFachbezogen": true,
+  "schulform": "GE",
+  "mailadresse": null,
+  "noten": [
+    {
+      "kuerzel": "",
+      "notenpunkte": null,
+      "text": ""
+    },
+    {
+      "kuerzel": "6",
+      "notenpunkte": 0,
+      "text": "ungenuegend"
+    },
+    {
+      "kuerzel": "5-",
+      "notenpunkte": 1,
+      "text": "mangelhaft (minus)"
+    },
+    {
+      "kuerzel": "5",
+      "notenpunkte": 2,
+      "text": "mangelhaft"
+    },
+    {
+      "kuerzel": "5+",
+      "notenpunkte": 3,
+      "text": "mangelhaft (plus)"
+    },
+    {
+      "kuerzel": "4-",
+      "notenpunkte": 4,
+      "text": "ausreichend (minus)"
+    },
+    {
+      "kuerzel": "4",
+      "notenpunkte": 5,
+      "text": "ausreichend"
+    },
+    {
+      "kuerzel": "4+",
+      "notenpunkte": 6,
+      "text": "ausreichend (plus)"
+    },
+    {
+      "kuerzel": "3-",
+      "notenpunkte": 7,
+      "text": "befriedigend (minus)"
+    },
+    {
+      "kuerzel": "3",
+      "notenpunkte": 8,
+      "text": "befriedigend"
+    },
+    {
+      "kuerzel": "3+",
+      "notenpunkte": 9,
+      "text": "befriedigend (plus)"
+    },
+    {
+      "kuerzel": "2-",
+      "notenpunkte": 10,
+      "text": "gut (minus)"
+    },
+    {
+      "kuerzel": "2",
+      "notenpunkte": 11,
+      "text": "gut"
+    },
+    {
+      "kuerzel": "2+",
+      "notenpunkte": 12,
+      "text": "gut (plus)"
+    },
+    {
+      "kuerzel": "1-",
+      "notenpunkte": 13,
+      "text": "sehr gut (minus)"
+    },
+    {
+      "kuerzel": "1",
+      "notenpunkte": 14,
+      "text": "sehr gut"
+    },
+    {
+      "kuerzel": "1+",
+      "notenpunkte": 15,
+      "text": "sehr gut (plus)"
+    },
+    {
+      "kuerzel": "AT",
+      "notenpunkte": null,
+      "text": "(ärtzliches Attest)"
+    },
+    {
+      "kuerzel": "E1",
+      "notenpunkte": null,
+      "text": "mit besonderem Erfolg teilgenommen"
+    },
+    {
+      "kuerzel": "E2",
+      "notenpunkte": null,
+      "text": "mit Erfolg teilgenommen"
+    },
+    {
+      "kuerzel": "E3",
+      "notenpunkte": null,
+      "text": "teilgenommen"
+    },
+    {
+      "kuerzel": "NT",
+      "notenpunkte": null,
+      "text": "(nicht teilgenommen)"
+    },
+    {
+      "kuerzel": "NB",
+      "notenpunkte": null,
+      "text": "(kann nicht beurteilt werden)"
+    },
+    {
+      "kuerzel": "NE",
+      "notenpunkte": null,
+      "text": "(nicht erteilt)"
+    },
+    {
+      "kuerzel": "LM",
+      "notenpunkte": null,
+      "text": "(kein Unterricht wegen Lehrermangel)"
+    },
+    {
+      "kuerzel": "AM",
+      "notenpunkte": null,
+      "text": "(abgemeldet)"
+    }
+  ],
+  "foerderschwerpunkte": [
+    {
+      "kuerzel": "**",
+      "beschreibung": "kein Förderschwerpunkt"
+    },
+    {
+      "kuerzel": "BL",
+      "beschreibung": "Sehen (Blinde)"
+    },
+    {
+      "kuerzel": "EZ",
+      "beschreibung": "Emotionale und soziale Entwicklung"
+    },
+    {
+      "kuerzel": "GB",
+      "beschreibung": "Geistige Entwicklung"
+    },
+    {
+      "kuerzel": "GH",
+      "beschreibung": "Hören und Kommunikation (Gehörlose)"
+    },
+    {
+      "kuerzel": "KB",
+      "beschreibung": "Körperliche und motorische Entwicklung"
+    },
+    {
+      "kuerzel": "LB",
+      "beschreibung": "Lernen"
+    },
+    {
+      "kuerzel": "PE",
+      "beschreibung": "Präventive Förderung im Bereich Emotionale und soziale Entwicklung"
+    },
+    {
+      "kuerzel": "PF",
+      "beschreibung": "Präventive Förderung"
+    },
+    {
+      "kuerzel": "PL",
+      "beschreibung": "Präventive Förderung im Bereich Lernen"
+    },
+    {
+      "kuerzel": "PS",
+      "beschreibung": "Präventive Förderung im Bereich Sprache"
+    },
+    {
+      "kuerzel": "SB",
+      "beschreibung": "Sprache"
+    },
+    {
+      "kuerzel": "SG",
+      "beschreibung": "Hören und Kommunikation (Schwerhörige)"
+    },
+    {
+      "kuerzel": "SH",
+      "beschreibung": "Sehen (Sehbehinderte)"
+    }
+  ],
+  "jahrgaenge": [
+    {
+      "id": 16,
+      "kuerzel": "Q2",
+      "kuerzelAnzeige": "Q2",
+      "beschreibung": "Qualifikationsphase 2",
+      "stufe": "SII-3",
+      "sortierung": 12
+    },
+    {
+      "id": 15,
+      "kuerzel": "Q1",
+      "kuerzelAnzeige": "Q1",
+      "beschreibung": "Qualifikationsphase 1 (verkürzte Schuldauer G8)",
+      "stufe": "SII-2",
+      "sortierung": 10
+    },
+    {
+      "id": 14,
+      "kuerzel": "EF",
+      "kuerzelAnzeige": "EF",
+      "beschreibung": "Einführungsphase        (verkürzte Schuldauer G8)",
+      "stufe": "SII-1",
+      "sortierung": 8
+    }
+  ],
+  "klassen": [
+    {
+      "id": 61,
+      "kuerzel": "Q2",
+      "kuerzelAnzeige": "Q2",
+      "sortierung": 61,
+      "klassenlehrer": [
+        17,
+        167
+      ]
+    },
+    {
+      "id": 60,
+      "kuerzel": "Q1",
+      "kuerzelAnzeige": "Q1",
+      "sortierung": 60,
+      "klassenlehrer": [
+        72,
+        75
+      ]
+    },
+    {
+      "id": 59,
+      "kuerzel": "EF",
+      "kuerzelAnzeige": "EF",
+      "sortierung": 59,
+      "klassenlehrer": [
+        3,
+        137
+      ]
+    }
+  ],
+  "floskelgruppen": [
+    {
+      "kuerzel": "ALLG",
+      "bezeichnung": "Allgemeine Floskeln",
+      "hauptgruppe": "ALLG",
+      "floskeln": [
+        {
+          "kuerzel": "#1",
+          "text": " Ausarbeitung: Irmela Deppe / Eva Brinkmeier 17.09.02 RLV – KV Herford-Lippe (in wenigen Punkten von Martin Klüsener RLV – KV Münster geändert und für Schild-NRW aufbereitet (18. Juli 2003))",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A1",
+          "text": "$Vorname$ sollte sich aktiver am Unterrichtsgeschehen beteiligen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A10",
+          "text": "$Vorname$ muss pünktlich zum Unterricht erscheinen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A11",
+          "text": "$Vorname$ folgt aufmerksam dem Unterricht, sollte sich aber aktiver in das Unterrichtsgeschehen einbringen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A12",
+          "text": "$Vorname$ zeigt eine durchweg erfreuliche und eigenständige Mitarbeit im Unterricht.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A13",
+          "text": "$Vorname$ muss die Heftführung ordentlicher gestalten.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A14",
+          "text": "$Vorname$ muss sich bei Teamarbeit stärker in die Gruppe einbringen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A15",
+          "text": "$Vorname$ bringt sich bei Teamarbeit sehr produktiv in die Gruppe ein.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A16",
+          "text": "$Vorname$ muss sauber und deutlich schreiben.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A17",
+          "text": "$Vorname$ hat an dem Projekt Berufs- und Lebensplanung teilgenommen",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A18",
+          "text": "$Vorname$ hat am Ganztagsangebot teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A19",
+          "text": "Das gesamte Arbeits- und Sozialverhalten ist zufriedenstellend. ",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A2",
+          "text": "$Vorname$ sollte sich im Unterricht besser konzentrieren.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A3",
+          "text": "$Vorname$ arbeitet durchgehend konzentriert im Unterricht mit.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A4",
+          "text": "$Vorname$ muss lernen, Hausaufgaben sorgfältig und regelmäßig zu erledigen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A41",
+          "text": "Die Leistungen in den Fächern  Deutsch und Englisch sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A42",
+          "text": "Die Leistungen in den Fächern  Deutsch und Mathematik sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A43",
+          "text": "Die Leistungen in den Fächern  Englisch und Mathematik sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A44",
+          "text": "Die Leistungen in den Fächern Deutsch, Englisch und Mathematik sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A45",
+          "text": "Die Leistungen im Fach Gesellschaftslehre sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A46",
+          "text": "Die Leistungen im Fach Mathematik sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A47",
+          "text": "Die Leistungen im Fach Deutsch sind schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A48",
+          "text": "Die Note im Fach Naturwissenschaften ist nur schwach ausreichend.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A49",
+          "text": "$Vorname$ muss lernen, Hausaufgaben sorgfältig und regelmäßig zu erledigen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A5",
+          "text": "$Vorname$ sollte sich aktiver am Unterricht beteiligen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A50",
+          "text": "$Vorname$ könnte $IHRE/SEINE$ Leistungen verbessern, wenn $SIE/ER$ regelmäßig und pünktlich zum Unterricht erscheint.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A53",
+          "text": "$Vorname$ muss sich an die Regeln der Schulordnung halten.  ",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A54",
+          "text": "$Vorname$ muss das Arbeitsmaterial vollständig mitbringen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A55",
+          "text": "$Vorname$ muss konzentriert im Unterricht mitarbeiten.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A56",
+          "text": "$Vorname$ muss Wochenpläne und Hausaufgaben vollständig erledigen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A57",
+          "text": "$Vorname$ muss sich am Unterricht aktiver beteiligen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A58",
+          "text": "$Vorname$ muss, um Erfolg zu haben, Hefter sorgfältiger führen, Aufgaben termingerecht erledigen und sich am Unterricht beteiligen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A59",
+          "text": "$Vorname$ muss entschieden zielstrebiger und sorgfältiger arbeiten und den respektvollen Umgang mit Mitmenschen lernen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A6",
+          "text": "$Vorname$ erledigt die gestellten Aufgaben mit großer Sorgfalt und Ausdauer.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A60",
+          "text": "$Vorname$ muss regelmäßig zielstrebig und sorgfältig arbeiten.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A61",
+          "text": "$Vorname$ muss die Unterrichtsregeln beachten und zuverlässiger arbeiten.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A62",
+          "text": "$Vorname$ muss $Anrede$ Arbeitshaltung verbessern.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A63",
+          "text": "$Vorname$ sollte die ABS-Stunden intensiver nutzen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A7",
+          "text": "$Vorname$ muss lernen, das Aufgabenheft besser zu führen und die erforderlichen Materialien mitzubringen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A8",
+          "text": "$Vorname$ sollte sich aktiver im Fach .............. beteiligen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#A9",
+          "text": "$Vorname$ ist bereit, über das geforderte Maß hinaus zu arbeiten.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#BIE",
+          "text": "*Das Fach Erdkunde wurde Englisch bilingual unterrichtet.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#BIG",
+          "text": "*Das Fach Geschichte wurde Englisch bilingual unterrichtet.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#BOW1",
+          "text": "$Vorname$ hat an der Beruforientierungswoche mit sehr gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#BOW2",
+          "text": "$Vorname$ hat an der Beruforientierungswoche mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#BOW3",
+          "text": "$Vorname$ hat an der Beruforientierungswoche mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#BOW4",
+          "text": "$Vorname$ hat an der Beruforientierungswoche teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DELF",
+          "text": "$Vorname$ hat an der Arbeitsgemeinschaft zur Vorbereitung auf das französische Sprachdiplom \"DELF\" regelmäßig teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DELFB",
+          "text": "$Vorname$ hat das \"DELF\" Diplom bestanden.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DFB",
+          "text": "$Vorname$ hat am \"Deutsch-Französischen-Begegnungstag\" in Aachen teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DNE",
+          "text": "Die Note im Fach Deutsch wurde auf E-Kurs-Niveau erteilt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DNG",
+          "text": "Die Note im Fach Deutsch wurde auf G-Kurs-Niveau erteilt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DZ1",
+          "text": "$Vorname$ hat an einer sprachlichen Förderung mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DZ2",
+          "text": "$Vorname$ hat an einer sprachlichen Förderung mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DZ3",
+          "text": "$Vorname$ hat an einer sprachlichen Förderung mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#DZ4",
+          "text": "$Vorname$ hat an einer sprachlichen Förderung teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E1",
+          "text": "$Vorname$ ist Mitglied im Schülersprecherteam.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E10",
+          "text": "$Vorname$ wirkt am Schulprogramm mit.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E11",
+          "text": "$Vorname$ wirkt engagiert an der Gestaltung des Schulprogramms mit.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E12",
+          "text": "$Vorname$ engagiert sich bei der Gestaltung des Schulprogramms in besonderem Maße.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E13",
+          "text": "$Vorname$ ist Klassensprecher$WEIBL$.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E14",
+          "text": "$Vorname$ engagiert sich als Klassensprecher$WEIBL$.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E15",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Klassensprecher$WEIBL$.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E16",
+          "text": "$Vorname$ ist Klassenbuchführer$WEIBL$.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E17",
+          "text": "$Vorname$ engagiert sich als Klassenbuchführer$WEIBL$.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E18",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als  ",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E2",
+          "text": "$Vorname$ engagiert sich im Schülersprecherteam.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E22",
+          "text": "$Vorname$ engagiert sich für die Schulgemeinschaft.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E23",
+          "text": "$Vorname$ hat sich in besonderer Weise für die Schulgemeinschaft eingesetzt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E24",
+          "text": "$Vorname$ hat sich in besonderer Weise für $ANREDE$ Mitschüler eingesetzt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E25",
+          "text": "$Vorname$ arbeitet mit bei der Betreuung der Schülerbibliothek.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E26",
+          "text": "$Vorname$ engagiert sich bei der Betreuung der Schülerbibliothek.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E27",
+          "text": "$Vorname$ engagiert sich in besonderem Maße bei der Betreuung der Schülerbibliothek.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E28",
+          "text": "$Vorname$ arbeitet als Pat$Ein$ bei der Betreuung jüngerer Schüler/innen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E29",
+          "text": "$Vorname$ engagiert sich als Pat$EIN$ bei der Betreuung jüngerer Schüler/innen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E3",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Mitglied im Schülersprecherteam.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E30",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Pat$EIN$ bei der Betreuung jüngerer Schüler/innen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E34",
+          "text": "$Vorname$ arbeitet im Ganztagsbereich der Schule mit.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E35",
+          "text": "$Vorname$ engagiert sich im Ganztagsbereich der Schule.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E36",
+          "text": "$Vorname$ engagiert sich in besonderem Maße im Ganztagsbereich der Schule.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E37",
+          "text": "$Vorname$ engagiert sich beim Erstellen der Schülerzeitung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E38",
+          "text": "$Vorname$ engagiert sich in besonderem Maße beim Erstellen der Schülerzeitung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E39",
+          "text": "$Vorname$ setzt sich in der Klassengemeinschaft engagiert bei außerunterrichtlichen Aktivitäten ein.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E4",
+          "text": "$Vorname$ ist Mitglied der Schülervertretung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E5",
+          "text": "$Vorname$ engagiert sich als Mitglied der Schülervertretung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E6",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Mitglied der Schülervertretung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E7",
+          "text": "$Vorname$ ist Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E70",
+          "text": "$Vorname$ engagierte sich in der Redaktion der Schulhomepage.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E71",
+          "text": "$Vorname$ engagierte sich mit großem Eifer in der Redaktion der Schulhomepage.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E72",
+          "text": "$Vorname$ hat im Spielekeller assistiert.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E73",
+          "text": "$Vorname$ betreute sehr zuverlässig das Schülercafe der Schule in der Mittagspause.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E74",
+          "text": "$Vorname$ führte sehr ordentlich und zuverlässig das Klassenbuch.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E76",
+          "text": "$Vorname$ war Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E79",
+          "text": "$Vorname$ war Schülersprecherin.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E8",
+          "text": "$Vorname$ engagiert sich als Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E80",
+          "text": "$Vorname$ war Schülersprecher.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E81",
+          "text": "$Vorname$ war im letzten Schuljahr Büchereiassistentin.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E82",
+          "text": "$Vorname$ war im letzten Schuljahr Büchereiassistent.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E83",
+          "text": "$Vorname$ nahm ihre Aufgaben als Klassensprecherin engagiert wahr.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E84",
+          "text": "$Vorname$ nahm seine Aufgaben als Klassensprecher engagiert wahr.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E85",
+          "text": "$Vorname$ ist Schulsanitäterin.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E86",
+          "text": "$Vorname$ ist Schulsanitäter.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E89",
+          "text": "$Vorname$ hat engagiert und eigenverantwortlich im Mittagsangebot den PC-Raum betreut.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E9",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E99",
+          "text": "$Vorname$ hat am Sommerleseclub der Stadtbücherei Mettmann erfolgreich teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ED1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Deutsch mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ED2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Deutsch mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ED3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Deutsch mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ED4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Deutsch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EE1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Englisch mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EE2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Englisch mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EE3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Englisch mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EE4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Englisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EFB1",
+          "text": "$Vorname$ hat an der AG \"Business English\" mit sehr gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EFB2",
+          "text": "$Vorname$ hat an der AG \"Business English\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EFB3",
+          "text": "$Vorname$ hat an der AG \"Business English\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EFB4",
+          "text": "$Vorname$ hat an der AG \"Business English\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EI1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Informatik mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EI2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Informatik mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EI3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Informatik mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EI4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Informatik teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EM1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Mathematik mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EM2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Mathematik mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EM3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Mathematik mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EM4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach Mathematik teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EN1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" mit sehr gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EN2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EN3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EN4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ENE",
+          "text": "Die Note im Fach Englisch wurde auf E-Kurs-Niveau erteilt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ENG",
+          "text": "Die Note im Fach Englisch wurde auf G-Kurs-Niveau erteilt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUA",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Arabisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUG",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Griechisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUI",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Italienisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUP",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Polnisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUR",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Russisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUS",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Spanisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#HSUT",
+          "text": "$Vorname$ hat am herkunftssprachlichen Unterricht im Fach Türkisch teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#IKD",
+          "text": "$Vorname$ wurde im Förderschwerpunkt XXX sonderpädagogisch gefördert und im Bildungsgang der allgemeinen Schule unterrichtet. Laut Beschluss der Klassenkonferenz vom XX.XX.XXXX besteht nach § 17 AO-SF der Bedarf an sonderpädagogischer Unterstützung in diesem Förderschwerpunkt mit dem zieldifferenten Bildungsgang weiterhin.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#IKL",
+          "text": "$Vorname$ wurde im Förderschwerpunkt XXX sonderpädagogisch gefördert und im Bildungsgang der allgemeinen Schule unterrichtet. Laut Beschluss der Klassenkonferenz vom XX.XX.XXXX besteht nach § 17 AO-SF der Bedarf an sonderpädagogischer Unterstützung in diesem Förderschwerpunkt mit dem zielgleichen Bildungsgang weiterhin.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#L5",
+          "text": "$Vorname$ hat das Sozial- und Leistungsverhalten positiv entwickelt..",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#L6",
+          "text": "$Vorname$ hat eine erfreulich positive Arbeitshaltung in allen Fächern entwickelt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#L7",
+          "text": "Bei gleich bleibenden Leistungen im Fach Deutsch ist am Ende des Jahres eine Aufstufung in den E-Kurs möglich.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#L8",
+          "text": "Bei gleich bleibenden Leistungen im Fach Englisch ist am Ende des Jahres eine Aufstufung in den E-Kurs möglich.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#L9",
+          "text": "Bei gleich bleibenden Leistungen im Fach Mathematik ist am Ende des Jahres eine Aufstufung in den E-Kurs möglich.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MNE",
+          "text": "Die Note im Fach Mathematik wurde auf E-Kurs-Niveau erteilt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MNG",
+          "text": "Die Note im Fach Mathematik wurde auf G-Kurs-Niveau erteilt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MS1",
+          "text": "$Vorname$ hat sich im Mensa-Service-Team engagiert.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MU1",
+          "text": "$Vorname$ hat im Rahmen der Musik-AG sehr erfolgreich bei der Aufführung des Kindermusicals mitgewirkt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MU2",
+          "text": "$Vorname$ hat sehr erfolgreich bei der freiwilligen Aufführung des Kindermusicals mitgewirkt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MW1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Werkzeuge der Mathematik\" mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MW2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Werkzeuge der Mathematik\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MW3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Werkzeuge der Mathematik\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MW4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Werkzeuge der Mathematik\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#NWT1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#NWT2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#NWT3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#NWT4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Naturwissenschaft-Technik\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O1",
+          "text": "$Vorname$ ist &Stufensprecher%Stufensprecherin&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O10",
+          "text": "$Vorname$ ist Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O11",
+          "text": "$Vorname$ engagiert sich als Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O12",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Mitglied der Schulkonferenz.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O13",
+          "text": "$Vorname$ ist &Pate des 5. Jahrgangs%Patin des 5. Jahrgangs&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O14",
+          "text": "$Vorname$ engagiert sich als &Pate im 5. Jahrgang%Patin im 5. Jahrgang&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O15",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Pate im 5. Jahrgang%Patin im 5. Jahrgang&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O16",
+          "text": "$Vorname$ betreut selbständig das offene Mittagsangebot der Oberstufe.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O2",
+          "text": "$Vorname$ engagiert sich als &Stufensprecher%Stufensprecherin&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O20",
+          "text": "$Vorname$ arbeitet im Web-Team mit.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O21",
+          "text": "$Vorname$ engagiert sich im Web-Team.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O22",
+          "text": "$Vorname$ engagiert sich in besonderem Maße im Web-Team.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O3",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als &Stufensprecher%Stufensprecherin&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O4",
+          "text": "$Vorname$ ist &Schulsprecher%Schulsprecherin&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O5",
+          "text": "$Vorname$ engagiert sich als &Schulsprecher%Schulsprecherin&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O6",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als &Schulsprecher%Schulsprecherin&.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O7",
+          "text": "$Vorname$ ist Mitglied der Schülervertretung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O8",
+          "text": "$Vorname$ engagiert sich als Mitglied der Schülervertretung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O9",
+          "text": "$Vorname$ engagiert sich in besonderem Maße als Mitglied der Schülervertretung.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#PS1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Bewerbungstraining\" mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#PS2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Bewerbungstraining\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#PS3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Bewerbungstraining\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#PS4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Bewerbungstraining\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#S12",
+          "text": "$Vorname$ ist stets hilfsbereit und geht auf die Mitschüler/innen ein.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#S14",
+          "text": "$Vorname$ gelingt es, Konflikte im Gespräch zu lösen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#S15",
+          "text": "$Vorname$ ist durch $SEINIHR$ Verhalten ein positives Vorbild für die Mitschüler/innen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#S9",
+          "text": "$Vorname$ argumentiert stets fair und sachgerecht.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#SA1",
+          "text": "$Vorname$ hat das Deutsche Sportabzeichen erworben.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#TDN",
+          "text": "$Vorname$ hat am \"Tag der Naturwissenschaften\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#TP1",
+          "text": "$Vorname$ hat am halbjährigen Tagespraktikum mit sehr gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#TP2",
+          "text": "$Vorname$ hat am halbjährigen Tagespraktikum mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#TP3",
+          "text": "$Vorname$ hat am halbjährigen Tagespraktikum teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#UWT1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Umwelterziehung\" mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#UWT2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Umwelterziehung\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#UWT3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Umwelterziehung\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#UWT4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Umwelterziehung\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        }
+      ]
+    },
+    {
+      "kuerzel": "ASV",
+      "bezeichnung": "Floskeln für Arbeits- und Sozialverhalten",
+      "hauptgruppe": "ASV",
+      "floskeln": []
+    },
+    {
+      "kuerzel": "AUE",
+      "bezeichnung": "Floskeln für außerunterrichtliches Engagement",
+      "hauptgruppe": "AUE",
+      "floskeln": [
+        {
+          "kuerzel": "#AU1",
+          "text": "$Vorname$ hat mit großem Engagement an einer Studienfahrt mit den Zielen Berlin, Auschwitz und Krakau teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E19",
+          "text": "$Vorname$ engagierte sich in besonderem Maße bei der Planung und Durchführung des Weihnachtsgottesdienstes.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#E40",
+          "text": "$Vorname$ hat sich sehr engagiert bei musikalischen Auftritten eingebracht.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#IB",
+          "text": "$Vorname$ hat an einer internationalen Begegnung teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#KUV",
+          "text": "$Vorname$ hat an einer künstlerischen Veranstaltung mitgewirkt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#MUV",
+          "text": "$Vorname$ hat an einer musikalischen Veranstaltung mitgewirkt.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O17",
+          "text": "$Vorname$ ist Schulsanitäterin.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O18",
+          "text": "$Vorname$ ist Schulsanitäter.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#O19",
+          "text": "$Vorname$ arbeitet im Web-Team mit.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#ORME",
+          "text": "$Vorname$ engagiert sich bei der Organisation des Mensabetriebs.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        }
+      ]
+    },
+    {
+      "kuerzel": "FACH",
+      "bezeichnung": "Fachbezogene Floskeln",
+      "hauptgruppe": "FACH",
+      "floskeln": []
+    },
+    {
+      "kuerzel": "FÖRD",
+      "bezeichnung": "Floskeln für Fördermaßnahmen",
+      "hauptgruppe": "FÖRD",
+      "floskeln": []
+    },
+    {
+      "kuerzel": "VERM",
+      "bezeichnung": "Floskeln für Vermerke",
+      "hauptgruppe": "VERM",
+      "floskeln": []
+    },
+    {
+      "kuerzel": "ZB",
+      "bezeichnung": "Floskeln für Zeugnisbemerkungen",
+      "hauptgruppe": "ZB",
+      "floskeln": [
+        {
+          "kuerzel": "#EP1",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Projektkurs\" mit besonderem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EP2",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Projektkurs\" mit gutem Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EP3",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Projektkurs\" mit Erfolg teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#EP4",
+          "text": "$Vorname$ hat am zusätzlichen Unterricht im Fach \"Projektkurs\" teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#FRA6",
+          "text": "$Vorname$ nimmt ab Klasse 6 am Fremdsprachenunterricht im Fach \"Französisch\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#SBP",
+          "text": "$Vorname$ hat am dreiwöchigen Schülerbetriebspraktikum teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#SFP",
+          "text": "$Vorname$ hat am freiwilligen Schülerbetriebspraktikum in der Klasse 10 teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#SOZ",
+          "text": "$Vorname$ hat am zweiwöchigen Sozialpraktikum teilgenommen.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#SPA8",
+          "text": "$Vorname$ nimmt ab Klasse 8 am Fremdsprachenunterricht im Fach \"Spanisch\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#WPAL",
+          "text": "$Vorname$ nimmt ab Klasse 7 im Wahlpflichtbereich am Fach \"Arbeitslehre\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#WPDG",
+          "text": "$Vorname$ nimmt ab Klasse 7 im Wahlpflichtbereich am Fach \"Darstellen und Gestalten\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#WPIF",
+          "text": "$Vorname$ nimmt ab Klasse 7 im Wahlpflichtbereich am Fach \"Informatik\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#WPNW",
+          "text": "$Vorname$ nimmt ab Klasse 7 im Wahlpflichtbereich am Fach \"Naturwissenschaften\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        },
+        {
+          "kuerzel": "#WPNWT",
+          "text": "$Vorname$ nimmt ab Klasse 7 im Wahlpflichtbereich am Fach \"Naturwissenschaft/Technik\" teil.",
+          "fachID": null,
+          "niveau": null,
+          "jahrgangID": null
+        }
+      ]
+    }
+  ],
+  "lehrer": [
+    {
+      "id": 22,
+      "kuerzel": "DORI",
+      "nachname": "Dorin",
+      "vorname": "Tobias",
+      "geschlecht": "m",
+      "eMailDienstlich": "T.Dorin@lmail.de"
+    },
+    {
+      "id": 17,
+      "kuerzel": "SPEE",
+      "nachname": "Speer",
+      "vorname": "Doreen",
+      "geschlecht": "w",
+      "eMailDienstlich": "D.Speer@lmail.de"
+    },
+    {
+      "id": 167,
+      "kuerzel": "SCH6",
+      "nachname": "Scherf",
+      "vorname": "Jonas",
+      "geschlecht": "m",
+      "eMailDienstlich": "J.Scherf@lmail.de"
+    },
+    {
+      "id": 72,
+      "kuerzel": "WIT1",
+      "nachname": "Wittmack",
+      "vorname": "Vanessa",
+      "geschlecht": "w",
+      "eMailDienstlich": "V.Wittmack@lmail.de"
+    },
+    {
+      "id": 75,
+      "kuerzel": "SCHR",
+      "nachname": "Schramm",
+      "vorname": "Torsten",
+      "geschlecht": "m",
+      "eMailDienstlich": "T.Schramm@lmail.de"
+    },
+    {
+      "id": 3,
+      "kuerzel": "SCHM",
+      "nachname": "Schmidtchen",
+      "vorname": "Thomas",
+      "geschlecht": "m",
+      "eMailDienstlich": "T.Schmidtchen@lmail.de"
+    },
+    {
+      "id": 137,
+      "kuerzel": "STRA",
+      "nachname": "Strauß",
+      "vorname": "Christian",
+      "geschlecht": "m",
+      "eMailDienstlich": "C.Strauß@lmail.de"
+    }
+  ],
+  "faecher": [
+    {
+      "id": 11,
+      "kuerzel": "E",
+      "kuerzelAnzeige": "E",
+      "sortierung": 200,
+      "istFremdsprache": true
+    },
+    {
+      "id": 31,
+      "kuerzel": "GE",
+      "kuerzelAnzeige": "GE",
+      "sortierung": 100,
+      "istFremdsprache": false
+    }
+  ],
+  "teilleistungsarten": [],
+  "lerngruppen": [
+    {
+      "id": 1,
+      "kID": 19520,
+      "fachID": 11,
+      "kursartID": 71,
+      "bezeichnung": "E-GK1",
+      "kursartKuerzel": "GK",
+      "bilingualeSprache": "D",
+      "lehrerID": [
+        22
+      ],
+      "wochenstunden": 3
+    },
+    {
+      "id": 2,
+      "kID": 19521,
+      "fachID": 31,
+      "kursartID": 71,
+      "bezeichnung": "GE-GK1",
+      "kursartKuerzel": "GK",
+      "bilingualeSprache": "D",
+      "lehrerID": [
+        22
+      ],
+      "wochenstunden": 3
+    },
+    {
+      "id": 3,
+      "kID": 19535,
+      "fachID": 31,
+      "kursartID": 71,
+      "bezeichnung": "GE-GK2",
+      "kursartKuerzel": "GK",
+      "bilingualeSprache": "D",
+      "lehrerID": [
+        22
+      ],
+      "wochenstunden": 3
+    },
+    {
+      "id": 4,
+      "kID": 19559,
+      "fachID": 31,
+      "kursartID": 72,
+      "bezeichnung": "GE-LK1",
+      "kursartKuerzel": "LK",
+      "bilingualeSprache": "D",
+      "lehrerID": [
+        22
+      ],
+      "wochenstunden": 5
+    },
+    {
+      "id": 5,
+      "kID": 19563,
+      "fachID": 11,
+      "kursartID": 71,
+      "bezeichnung": "E-GK2",
+      "kursartKuerzel": "GK",
+      "bilingualeSprache": "D",
+      "lehrerID": [
+        22
+      ],
+      "wochenstunden": 3
+    },
+    {
+      "id": 6,
+      "kID": 19597,
+      "fachID": 31,
+      "kursartID": 71,
+      "bezeichnung": "GE-GK3",
+      "kursartKuerzel": "GK",
+      "bilingualeSprache": "D",
+      "lehrerID": [
+        22
+      ],
+      "wochenstunden": 3
+    }
+  ],
+  "schueler": [
+    {
+      "id": 3288,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Rüsche",
+      "vorname": "Karolin",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55864,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828163,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828164,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3414,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Newton",
+      "vorname": "Lisa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55866,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828186,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3415,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Huiß",
+      "vorname": "Vanessa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55867,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828194,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3417,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Pressentin",
+      "vorname": "Steffen",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55869,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828212,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3419,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Sehner",
+      "vorname": "Kevin",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55870,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828222,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828224,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3425,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Gregert",
+      "vorname": "Lena",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55871,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828234,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3427,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Arndt",
+      "vorname": "Leon",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55872,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828242,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828243,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3428,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Czarnowske",
+      "vorname": "Manuela",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55873,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828252,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828254,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3430,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Stache",
+      "vorname": "Angelika",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55874,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828263,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3484,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Beckmann",
+      "vorname": "Paul",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55877,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828291,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3494,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Kuhn",
+      "vorname": "Karin",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55881,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828332,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3503,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Köcher",
+      "vorname": "Jörg",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55884,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828360,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3536,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Orniak",
+      "vorname": "Jennifer",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55896,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828473,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828475,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3568,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Fischöder",
+      "vorname": "Sophie",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55898,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828493,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828495,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3577,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Jaspers",
+      "vorname": "Lukas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55899,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828504,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3580,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Felt",
+      "vorname": "Mandy",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55901,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828525,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3590,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Schleiermacher",
+      "vorname": "Anke",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55902,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828535,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3592,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Grub",
+      "vorname": "Sandra",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55903,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828547,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3593,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Hamel",
+      "vorname": "Sandra",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55904,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828554,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3621,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Ebbesen",
+      "vorname": "Maximilian",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55910,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828610,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828611,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3623,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Fenny",
+      "vorname": "Niklas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55912,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828633,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3631,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Swiderski",
+      "vorname": "Juliane",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55914,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828649,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3636,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Riddlesdale",
+      "vorname": "Diana",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55916,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828673,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3647,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Grädener",
+      "vorname": "Steffen",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55919,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828705,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3650,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Schulze-Froning",
+      "vorname": "Ulrich",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55921,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828724,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3658,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Christian",
+      "vorname": "Benjamin",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55923,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828744,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3742,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Gastreich",
+      "vorname": "Jens",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55927,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828784,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3743,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Ketelsen",
+      "vorname": "Birgit",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55928,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828796,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3747,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Schomberg",
+      "vorname": "Janina",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55929,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828807,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3749,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Sutter",
+      "vorname": "Daniela",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55931,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828826,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828830,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3756,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Enckevort",
+      "vorname": "Gabriele",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55932,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828841,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3759,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Greyensen",
+      "vorname": "Brigitte",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55933,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828849,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3773,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Hanson",
+      "vorname": "Anne",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55935,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828871,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3776,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Schuff",
+      "vorname": "Andrea",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55936,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828879,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828883,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3800,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Peck",
+      "vorname": "Markus",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55937,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828889,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828892,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3803,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Boy",
+      "vorname": "Tobias",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55939,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828910,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828913,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3811,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Schrage",
+      "vorname": "Christian",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55940,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828920,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828923,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3812,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Rollier",
+      "vorname": "Martin",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55941,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828932,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 828935,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3816,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Medenbach",
+      "vorname": "Marie",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55943,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828957,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3820,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Siebels",
+      "vorname": "Christian",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55944,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828968,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3822,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Rutzky",
+      "vorname": "Laura",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55945,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828979,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3825,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Gräff",
+      "vorname": "Franziska",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55946,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 828991,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3827,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Köcher",
+      "vorname": "Christian",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55947,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829000,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3831,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Morthorst",
+      "vorname": "Niklas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55950,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829035,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3832,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Garrelts",
+      "vorname": "Ute",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55951,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829045,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3836,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Mortensen",
+      "vorname": "Tobias",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55952,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829054,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829057,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3840,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Ziemer",
+      "vorname": "Mike",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55953,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829067,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3841,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Aschenborn",
+      "vorname": "Tim",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55954,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829076,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829079,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3848,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Fernholz",
+      "vorname": "Mathias",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55956,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829098,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829101,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3849,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Minning",
+      "vorname": "Matthias",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55957,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829112,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3851,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Pummer",
+      "vorname": "Thomas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55958,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829120,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829123,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3854,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Stegemann",
+      "vorname": "Nadine",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55959,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829135,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3855,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Krüger",
+      "vorname": "Thomas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55960,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829145,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3859,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Mühlstein",
+      "vorname": "Vanessa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55961,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829157,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3862,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Miller",
+      "vorname": "Brigitte",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55963,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829179,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3863,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Perry",
+      "vorname": "Thorsten",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55964,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829186,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829188,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3864,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Kock",
+      "vorname": "Patrick",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55965,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829199,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3866,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Penzig",
+      "vorname": "Thomas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55966,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829210,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3870,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Bertmeringh",
+      "vorname": "Sebastian",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55967,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829220,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829223,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3871,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Hackel",
+      "vorname": "Klaus",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55968,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829231,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829234,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3872,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Cramer",
+      "vorname": "Tanja",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55969,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829242,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829245,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3884,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Geier",
+      "vorname": "Klaus",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55970,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829253,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829255,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3890,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Carstens",
+      "vorname": "Martin",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55971,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829267,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3894,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Christ",
+      "vorname": "Sebastian",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55973,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829288,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3895,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Mellenthin",
+      "vorname": "Andreas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55974,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829297,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 829300,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3897,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Tade",
+      "vorname": "Marco",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55976,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829323,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3909,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Linneborn",
+      "vorname": "Marcel",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55979,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829355,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3913,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Kupferschmidt",
+      "vorname": "Jana",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55980,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829367,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3929,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Heusinger",
+      "vorname": "Uwe",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55983,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829399,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3932,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Klinckhard",
+      "vorname": "Maik",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55984,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829410,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3979,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Krienen",
+      "vorname": "Birgit",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55987,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829445,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 3981,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Oliver",
+      "vorname": "Janina",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55988,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829458,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4021,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Ritz",
+      "vorname": "Manuela",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55995,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829550,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4035,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Zieger",
+      "vorname": "Karin",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 55998,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829589,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4041,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Storcks",
+      "vorname": "Frank",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56001,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829628,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4047,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Dörner",
+      "vorname": "Jörg",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56003,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829654,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4051,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Himmelstierna",
+      "vorname": "Jens",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56005,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829680,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4060,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Ohmke",
+      "vorname": "Ralph",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56008,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829719,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4073,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Schröder",
+      "vorname": "Ralph",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56012,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829771,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4080,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Ebsen",
+      "vorname": "Andreas",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56014,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829797,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4093,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Röckendorf",
+      "vorname": "Dirk",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56016,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829824,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4095,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Dupré",
+      "vorname": "Dominik",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56017,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829837,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4126,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Weiss",
+      "vorname": "Eric",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56025,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829941,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4133,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Ingwersen",
+      "vorname": "Ines",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56029,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 829994,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4144,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Hesse",
+      "vorname": "Leon",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56033,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 830045,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4174,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Holthues",
+      "vorname": "Jens",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56041,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 830151,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4436,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Gitschmann",
+      "vorname": "Monika",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56146,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 831782,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4668,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Hesse",
+      "vorname": "Antje",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56256,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 833779,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4938,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Hanson",
+      "vorname": "Juliane",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56375,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 836047,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": 4,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4944,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Oechsle",
+      "vorname": "Jennifer",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56378,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 836076,
+          "lerngruppenID": 1,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4946,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Cossel",
+      "vorname": "Tim",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56379,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 836090,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 4954,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Fiege",
+      "vorname": "Nadine",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56380,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 836100,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5044,
+      "jahrgangID": 16,
+      "klasseID": 61,
+      "nachname": "Kortmann",
+      "vorname": "Silke",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56428,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 836891,
+          "lerngruppenID": 2,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5185,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Payens",
+      "vorname": "Lisa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56503,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838136,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5192,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Buck",
+      "vorname": "Lisa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56507,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838202,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5195,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Heydemann",
+      "vorname": "Philipp",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56508,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838213,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5201,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Preston",
+      "vorname": "Kerstin",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56511,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838244,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5202,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Sarcander",
+      "vorname": "Sophia",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56512,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838255,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5203,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Dewald",
+      "vorname": "Ines",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56513,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838266,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5210,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Bruschius",
+      "vorname": "Martina",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56519,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838328,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 838332,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5212,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Gyruth",
+      "vorname": "Silke",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56520,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 838338,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5275,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Kämmer",
+      "vorname": "Sandra",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56562,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 839016,
+          "lerngruppenID": 3,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5363,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Euden",
+      "vorname": "Vanessa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56623,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 839994,
+          "lerngruppenID": 5,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        },
+        {
+          "id": 839998,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5364,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Wagener",
+      "vorname": "Patrick",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56624,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840007,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5365,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Dewey",
+      "vorname": "Lisa",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56625,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840019,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5367,
+      "jahrgangID": 15,
+      "klasseID": 60,
+      "nachname": "Althaus",
+      "vorname": "Ulrike",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56626,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840029,
+          "lerngruppenID": 4,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": 2,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5410,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Neuendorff",
+      "vorname": "Stefanie",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56659,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840598,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5415,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Kammerer",
+      "vorname": "Mandy",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56660,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840611,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5418,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Creutzer",
+      "vorname": "Sophia",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56662,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840637,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5426,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Rother",
+      "vorname": "Markus",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56664,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840664,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5430,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Rück",
+      "vorname": "Stefanie",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56667,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840703,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": false,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5432,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Söncksen",
+      "vorname": "Jana",
+      "geschlecht": "w",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56668,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840716,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    },
+    {
+      "id": 5435,
+      "jahrgangID": 14,
+      "klasseID": 59,
+      "nachname": "Dichmann",
+      "vorname": "Alexander",
+      "geschlecht": "m",
+      "bilingualeSprache": null,
+      "istZieldifferent": false,
+      "istDaZFoerderung": false,
+      "sprachenfolge": [],
+      "lernabschnitt": {
+        "id": 56669,
+        "pruefungsordnung": "APO-GOSt(B)10/G8",
+        "lernbereich1note": null,
+        "lernbereich2note": null,
+        "foerderschwerpunkt1": null,
+        "foerderschwerpunkt2": null
+      },
+      "leistungsdaten": [
+        {
+          "id": 840730,
+          "lerngruppenID": 6,
+          "note": "",
+          "istSchriftlich": true,
+          "abiturfach": null,
+          "fehlstundenGesamt": 0,
+          "fehlstundenUnentschuldigt": 0,
+          "fachbezogeneBemerkungen": null,
+          "neueZuweisungKursart": null,
+          "istGemahnt": false,
+          "mahndatum": null,
+          "teilleistungen": []
+        }
+      ],
+      "bemerkungen": null,
+      "zp10": null,
+      "bkabschluss": null
+    }
+  ]
+}
