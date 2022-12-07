@@ -1,0 +1,1 @@
+Diese Blockung entspricht der in der GymAbi.mdb hinterlegten Blockung, allerdings nciht zu 100%. Es wurden zwei Schienen ergänzt und einzelne Kurse in diese Schienen geschoben. Zudem wurden die S0 Kurse auf zwei Schienen verteilt.

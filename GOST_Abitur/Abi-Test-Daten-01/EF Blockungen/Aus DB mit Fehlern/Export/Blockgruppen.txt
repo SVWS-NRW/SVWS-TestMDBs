@@ -1,0 +1,2 @@
+﻿"IDNr";"BlockungsID";"Bezeichnung";"Jahrgang";"Semester";"Schienenzahl";"Erstexport";"KoppIDMaske"
+1;1;"Jahrgang EF";"EF";20182;14;1;"BL%s%.2x"
