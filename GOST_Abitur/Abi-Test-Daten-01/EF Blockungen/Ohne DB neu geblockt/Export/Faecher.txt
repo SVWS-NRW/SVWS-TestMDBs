@@ -1,10 +1,10 @@
 ﻿"IDNr";"Krz";"Bezeichnung";"StatistikKrz";"Sortierung";"Fachgr_ID";"IstSprache"
 16;"D";"Deutsch";"D";10;110;0
-17;"E";"Englisch";"E";20;100;1
-30;"F";"Französisch ab Klasse 6";"F6";30;100;1
-72;"L";"Lateinisch ab Klasse 6";"L6";40;100;1
-165;"S";"Spanisch ab Klasse 8";"S8";50;100;1
-223;"S0";"Spanisch ab EF";"S0";60;100;1
+17;"E";"Englisch";"E";20;100;0
+30;"F";"Französisch ab Klasse 6";"F6";30;100;0
+72;"L";"Lateinisch ab Klasse 6";"L6";40;100;0
+165;"S";"Spanisch ab Klasse 8";"S8";50;100;0
+223;"S0";"Spanisch ab EF";"S0";60;100;0
 71;"KU";"Kunsterziehung";"KU";70;500;0
 81;"MU";"Musik";"MU";80;500;0
 239;"VP";"Vokalpraktischer Grundkurs";"VO";90;500;0
@@ -28,7 +28,7 @@
 210;"VFD";"Vertiefungsfach Deutsch";"VX";310;1500;0
 212;"VFE";"Vertiefungsfach Englisch";"VX";320;1500;0
 213;"VFM";"Vertiefungsfach Mathematik";"VX";330;1500;0
-233;"PK-E";"Projektkurs Englisch";"PX";350;1600;1
+233;"PK-E";"Projektkurs Englisch";"PX";350;1600;0
 234;"PK-BI";"Projektkurs Biologie";"PX";360;1600;0
 235;"PK-IF";"Projektkurs Informatik";"PX";370;1600;0
 240;"PK-MPI";"Projektkurs";"PX";380;1600;0
