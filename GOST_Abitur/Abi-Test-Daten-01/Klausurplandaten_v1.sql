@@ -36,8 +36,7 @@ VALUES
 	 (29,-1,5,17,'LK',1,255,30,0,0,0,NULL),
 	 (30,-1,5,17,'LK',2,255,30,0,0,0,NULL),
 	 (31,-1,0,17,'GK',1,90,0,1,1,0,NULL),
-	 (32,-1,0,17,'GK',2,90,0,0,0,0,'evtl. wenige wegen mündl. Prüfung 
-E/F');
+	 (32,-1,0,17,'GK',2,90,0,0,0,0,'evtl. wenige wegen mündl. Prüfung E/F');
 INSERT INTO GymAbi.Gost_Klausuren_Vorgaben 
 (ID,Abi_Jahrgang,Halbjahr,Fach_ID,KursartAllg,Quartal,Dauer,Auswahlzeit,IstMdlPruefung,IstAudioNotwendig,IstVideoNotwendig,Bemerkungen) 
 VALUES
@@ -61,8 +60,7 @@ VALUES
 	 (49,-1,5,30,'LK',1,255,30,0,0,0,NULL),
 	 (50,-1,5,30,'LK',2,255,30,0,0,0,NULL),
 	 (51,-1,0,30,'GK',1,90,0,1,1,0,NULL),
-	 (52,-1,0,30,'GK',2,90,0,0,0,0,'evtl. wenige wegen mündl. Prüfung 
-E/F'),
+	 (52,-1,0,30,'GK',2,90,0,0,0,0,'evtl. wenige wegen mündl. Prüfung E/F'),
 	 (53,-1,1,30,'GK',1,90,0,0,0,0,NULL),
 	 (54,-1,1,30,'GK',2,90,0,0,0,0,NULL);
 INSERT INTO GymAbi.Gost_Klausuren_Vorgaben 
@@ -395,3 +393,91 @@ INSERT INTO GymAbi.Gost_Klausuren_Vorgaben
 VALUES
 	 (330,-1,5,193,'LK',2,255,0,0,0,0,NULL);
 
+
+INSERT INTO Gost_Klausuren_Vorgaben 
+  (Abi_Jahrgang, Halbjahr, Fach_ID, KursartAllg, Quartal, Dauer, Auswahlzeit, IstMdlPruefung, IstAudioNotwendig, IstVideoNotwendig, Bemerkungen)
+  SELECT 2020, Halbjahr , Fach_ID , KursartAllg , Quartal , Dauer, Auswahlzeit , IstMdlPruefung ,IstAudioNotwendig , IstVideoNotwendig , Bemerkungen FROM Gost_Klausuren_Vorgaben WHERE Halbjahr = 4;
+  
+ INSERT INTO Gost_Klausuren_Kursklausuren 
+ 	(Vorgabe_ID, Kurs_ID)
+ 	SELECT 
+ 		(SELECT ID 
+ 		 FROM Gost_Klausuren_Vorgaben kv 
+ 		 WHERE Abi_Jahrgang = 2020 
+ 		   AND Halbjahr = 4 
+ 		   AND KursartAllg = k.KursartAllg 
+ 		   AND Quartal = 1 
+ 		   AND kv.Fach_ID = k.Fach_ID),
+ 		  ID 
+ 	FROM Kurse k 
+ 	WHERE Schuljahresabschnitts_ID = 19 
+ 		AND Jahrgang_ID = 12  
+ 		AND (Fach_ID, KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
+ 			Select Fach_ID, KursartAllg 
+ 			FROM Gost_Klausuren_Vorgaben gkv)
+ 	;
+
+ INSERT INTO Gost_Klausuren_Kursklausuren 
+ 	(Vorgabe_ID, Kurs_ID)
+ 	SELECT 
+ 		(SELECT ID 
+ 		 FROM Gost_Klausuren_Vorgaben kv 
+ 		 WHERE Abi_Jahrgang = 2020 
+ 		   AND Halbjahr = 4 
+ 		   AND KursartAllg = k.KursartAllg 
+ 		   AND Quartal = 2 
+ 		   AND kv.Fach_ID = k.Fach_ID),
+ 		  ID 
+ 	FROM Kurse k 
+ 	WHERE Schuljahresabschnitts_ID = 19 
+ 		AND Jahrgang_ID = 12  
+ 		AND (Fach_ID, KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
+ 			Select Fach_ID, KursartAllg 
+ 			FROM Gost_Klausuren_Vorgaben gkv)
+ 	;
+
+INSERT INTO Gost_Klausuren_Schuelerklausuren 
+ 	(Schueler_ID, Kursklausur_ID)
+ 	SELECT s.ID, (
+ 		SELECT gkk.ID 
+ 		FROM Gost_Klausuren_Kursklausuren gkk 
+ 			JOIN Gost_Klausuren_Vorgaben gkv ON gkk.Vorgabe_ID = gkv.ID 
+ 		WHERE Kurs_ID = k.id 
+ 			AND Quartal = 1
+ 		)
+	FROM Schuljahresabschnitte sja 
+    	JOIN SchuelerLernabschnittsdaten sa on sa.Schuljahresabschnitts_ID = sja.ID 
+    	JOIN SchuelerLeistungsdaten sl on  sl.Abschnitt_ID = sa.id 
+    	JOIN Schueler s on sa.Schueler_ID = s.ID  
+	    JOIN Kurse k on k.id = sl.Kurs_ID
+	WHERE ISNULL(sja.FolgeAbschnitt_ID) 
+		AND s.Status = 2 
+		AND s.Geloescht <> '+'                      # nur aktive Schueler des aktuellen Schuljahresabschnittes berücksichtigen
+    	AND sl.Kursart in ('LK1','LK2','AB3','AB4','GKS')                                        # nur schriftliche Belegungen beruecksichten
+    	AND (k.Fach_ID, k.KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
+ 			Select Fach_ID, KursartAllg 
+ 			FROM Gost_Klausuren_Vorgaben gkv)
+    	;
+    	
+ INSERT INTO Gost_Klausuren_Schuelerklausuren 
+ 	(Schueler_ID, Kursklausur_ID)
+ 	SELECT s.ID, (
+ 		SELECT gkk.ID 
+ 		FROM Gost_Klausuren_Kursklausuren gkk 
+ 			JOIN Gost_Klausuren_Vorgaben gkv ON gkk.Vorgabe_ID = gkv.ID 
+ 		WHERE Kurs_ID = k.id 
+ 			AND Quartal = 2
+ 		)
+	FROM Schuljahresabschnitte sja 
+    	JOIN SchuelerLernabschnittsdaten sa on sa.Schuljahresabschnitts_ID = sja.ID 
+    	JOIN SchuelerLeistungsdaten sl on  sl.Abschnitt_ID = sa.id 
+    	JOIN Schueler s on sa.Schueler_ID = s.ID  
+	    JOIN Kurse k on k.id = sl.Kurs_ID
+	WHERE ISNULL(sja.FolgeAbschnitt_ID) 
+		AND s.Status = 2 
+		AND s.Geloescht <> '+'                      # nur aktive Schueler des aktuellen Schuljahresabschnittes berücksichtigen
+    	AND sl.Kursart in ('LK1','LK2','AB3','AB4','GKS')                                        # nur schriftliche Belegungen beruecksichten
+    	AND (k.Fach_ID, k.KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
+ 			Select Fach_ID, KursartAllg 
+ 			FROM Gost_Klausuren_Vorgaben gkv)
+    	;
