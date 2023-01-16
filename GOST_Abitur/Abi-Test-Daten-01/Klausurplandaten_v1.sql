@@ -303,6 +303,8 @@ INSERT IGNORE INTO GymAbi.Gost_Klausuren_Vorgaben
 	 (-1,5,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'SW'),'GK',1,180,30,0,0,0,NULL),
 	 (-1,5,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'SW'),'GK',2,180,30,0,0,0,NULL);
 
+DELIMITER $$
+
 -- Klausurvorgaben für aktuelle EF, Q1 und Q2 erzeugen
 FOR i IN 0..5 DO
 	INSERT IGNORE
@@ -324,7 +326,7 @@ FOR i IN 0..5 DO
 		Bemerkungen 
 		FROM Gost_Klausuren_Vorgaben 
 		WHERE Halbjahr = i;
-END FOR;
+END FOR$$
 
 -- Kursklausuren für aktuelle EF, Q1 und Q2 erzeugen
 FOR i IN 0..5 DO
@@ -349,7 +351,7 @@ FOR i IN 0..5 DO
  		AND (Fach_ID, KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
 			Select Fach_ID, KursartAllg 
 			FROM Gost_Klausuren_Vorgaben gkv);
-END FOR;
+END FOR$$
 
 -- Schülerklausuren für aktuelle EF, Q1 und Q2 erzeugen
 FOR i IN 1..2 DO
@@ -381,4 +383,6 @@ FOR i IN 1..2 DO
  				SELECT Fach_ID, KursartAllg 
  				FROM Gost_Klausuren_Vorgaben gkv)
     ;
-END FOR;
+END FOR$$
+
+DELIMITER ;
