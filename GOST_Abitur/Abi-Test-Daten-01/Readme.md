@@ -2,7 +2,7 @@
 
 Beispieldaten Rechte & Gruppen in GymAbi:
 
-Das Kennwort bei "Admin" ist leer, sind bei allen anderen: User "Kürzel" und Passwort "Kurzel".  
+Das Kennwort bei "Admin" ist leer, sind bei allen anderen: User "Kürzel" und Passwort "Kürzel".  
 
 Bsp.: ALBE:ALBE  
 Zum Ausprobieren:   
