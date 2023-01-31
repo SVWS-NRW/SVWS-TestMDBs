@@ -313,7 +313,7 @@ FOR i IN 0..5 DO
 		SELECT (
 			SELECT Jahr 
 			FROM Schuljahresabschnitte s 
-			WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 2 - TRUNCATE(i/2,0), 
+			WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0), 
 		Halbjahr, 
 		Fach_ID, 
 		KursartAllg, 
@@ -336,7 +336,7 @@ FOR i IN 0..5 DO
 		SELECT (
 			SELECT ID 
 			FROM Gost_Klausuren_Vorgaben kv 
-	 		WHERE Abi_Jahrgang = (SELECT Jahr FROM Schuljahresabschnitte s WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 2 - TRUNCATE(i/2,0)
+	 		WHERE Abi_Jahrgang = (SELECT Jahr FROM Schuljahresabschnitte s WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0)
 				AND Halbjahr = i
 				AND KursartAllg = k.KursartAllg 
 				AND Quartal = i % 2 + 1
