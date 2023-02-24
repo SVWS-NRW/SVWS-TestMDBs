@@ -389,6 +389,7 @@ FOR i IN 1..2 DO
  				JOIN Gost_Klausuren_Vorgaben gkv ON gkk.Vorgabe_ID = gkv.ID 
 	 		WHERE Kurs_ID = k.id 
  				AND Quartal = i
+ 				AND Halbjahr = gkv2.Halbjahr
  			)
 		FROM SchuelerLernabschnittsdaten sa 
     		JOIN SchuelerLeistungsdaten sl on  sl.Abschnitt_ID = sa.id 
