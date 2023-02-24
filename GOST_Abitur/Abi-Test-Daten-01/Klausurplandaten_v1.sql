@@ -339,7 +339,32 @@ FOR i IN 0..5 DO
 	 		WHERE Abi_Jahrgang = (SELECT Jahr FROM Schuljahresabschnitte s WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0)
 				AND Halbjahr = i
 				AND KursartAllg = k.KursartAllg 
-				AND Quartal = i % 2 + 1
+				AND Quartal = 1
+				AND kv.Fach_ID = k.Fach_ID),
+		ID 
+		FROM Kurse k 
+		WHERE Schuljahresabschnitts_ID = (
+			SELECT ID 
+			FROM Schuljahresabschnitte s 
+			WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es))
+		AND ASDJahrgang = (CASE WHEN i<=1 THEN "EF" WHEN i >= 4 THEN "Q2" ELSE "Q1" END)
+ 		AND (Fach_ID, KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
+			Select Fach_ID, KursartAllg 
+			FROM Gost_Klausuren_Vorgaben gkv);
+END FOR$$
+
+-- Kursklausuren für aktuelle EF, Q1 und Q2 erzeugen
+FOR i IN 0..5 DO
+	INSERT IGNORE 
+		INTO Gost_Klausuren_Kursklausuren -- Erzeuge Kursklausuren für Q2.1.1
+		(Vorgabe_ID, Kurs_ID)
+		SELECT (
+			SELECT ID 
+			FROM Gost_Klausuren_Vorgaben kv 
+	 		WHERE Abi_Jahrgang = (SELECT Jahr FROM Schuljahresabschnitte s WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0)
+				AND Halbjahr = i
+				AND KursartAllg = k.KursartAllg 
+				AND Quartal = 2
 				AND kv.Fach_ID = k.Fach_ID),
 		ID 
 		FROM Kurse k 
