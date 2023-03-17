@@ -1,6 +1,6 @@
 -- Alle Vorgaben-Vorlagen erzeugen
 INSERT IGNORE INTO GymAbi.Gost_Klausuren_Vorgaben
-(Abi_Jahrgang,Halbjahr,Fach_ID,KursartAllg,Quartal,Dauer,Auswahlzeit,IstMdlPruefung,IstAudioNotwendig,IstVideoNotwendig,Bemerkungen) VALUES
+(Abi_Jahrgang,Halbjahr,Fach_ID,Kursart,Quartal,Dauer,Auswahlzeit,IstMdlPruefung,IstAudioNotwendig,IstVideoNotwendig,Bemerkungen) VALUES
 	 (-1,2,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'BI'),'LK',1,180,0,0,0,0,NULL),
 	 (-1,2,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'BI'),'LK',2,180,0,0,0,0,NULL),
 	 (-1,3,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'BI'),'LK',1,180,0,0,0,0,NULL),
@@ -309,14 +309,14 @@ DELIMITER $$
 FOR i IN 0..5 DO
 	INSERT IGNORE
 		INTO Gost_Klausuren_Vorgaben 
-		(Abi_Jahrgang, Halbjahr, Fach_ID, KursartAllg, Quartal, Dauer, Auswahlzeit, IstMdlPruefung, IstAudioNotwendig, IstVideoNotwendig, Bemerkungen)
+		(Abi_Jahrgang, Halbjahr, Fach_ID, Kursart, Quartal, Dauer, Auswahlzeit, IstMdlPruefung, IstAudioNotwendig, IstVideoNotwendig, Bemerkungen)
 		SELECT (
 			SELECT Jahr 
 			FROM Schuljahresabschnitte s 
 			WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0), 
 		Halbjahr, 
 		Fach_ID, 
-		KursartAllg, 
+		Kursart, 
 		Quartal, 
 		Dauer, 
 		Auswahlzeit, 
@@ -338,7 +338,7 @@ FOR i IN 0..5 DO
 			FROM Gost_Klausuren_Vorgaben kv 
 	 		WHERE Abi_Jahrgang = (SELECT Jahr FROM Schuljahresabschnitte s WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0)
 				AND Halbjahr = i
-				AND KursartAllg = k.KursartAllg 
+				AND Kursart = k.KursartAllg 
 				AND Quartal = 1
 				AND kv.Fach_ID = k.Fach_ID),
 		ID 
@@ -349,7 +349,7 @@ FOR i IN 0..5 DO
 			WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es))
 		AND ASDJahrgang = (CASE WHEN i<=1 THEN "EF" WHEN i >= 4 THEN "Q2" ELSE "Q1" END)
  		AND (Fach_ID, KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
-			Select Fach_ID, KursartAllg 
+			Select Fach_ID, Kursart 
 			FROM Gost_Klausuren_Vorgaben gkv);
 END FOR$$
 
@@ -363,7 +363,7 @@ FOR i IN 0..5 DO
 			FROM Gost_Klausuren_Vorgaben kv 
 	 		WHERE Abi_Jahrgang = (SELECT Jahr FROM Schuljahresabschnitte s WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es)) + 3 - TRUNCATE(i/2,0)
 				AND Halbjahr = i
-				AND KursartAllg = k.KursartAllg 
+				AND Kursart = k.KursartAllg
 				AND Quartal = 2
 				AND kv.Fach_ID = k.Fach_ID),
 		ID 
@@ -374,7 +374,7 @@ FOR i IN 0..5 DO
 			WHERE ID = (SELECT Schuljahresabschnitts_ID FROM EigeneSchule es))
 		AND ASDJahrgang = (CASE WHEN i<=1 THEN "EF" WHEN i >= 4 THEN "Q2" ELSE "Q1" END)
  		AND (Fach_ID, KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
-			Select Fach_ID, KursartAllg 
+			Select Fach_ID, Kursart 
 			FROM Gost_Klausuren_Vorgaben gkv);
 END FOR$$
 
@@ -406,7 +406,7 @@ FOR i IN 1..2 DO
 		    	OR sl.Kursart in ('LK1','LK2','AB3') # nur schriftliche Belegungen beruecksichten
 	    		AND Halbjahr = 5 # in Q2.2 nicht AB4 und GKS
 	    	) AND (k.Fach_ID, k.KursartAllg) IN ( -- Nur Fachkombinationen, für die es Vorgaben gibt
- 				SELECT Fach_ID, KursartAllg 
+ 				SELECT Fach_ID, Kursart 
  				FROM Gost_Klausuren_Vorgaben gkv)
     ;
 END FOR$$
