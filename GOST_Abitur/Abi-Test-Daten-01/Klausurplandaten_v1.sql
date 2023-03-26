@@ -1,5 +1,5 @@
 -- Alle Vorgaben-Vorlagen erzeugen
-INSERT IGNORE INTO GymAbi.Gost_Klausuren_Vorgaben
+INSERT IGNORE INTO Gost_Klausuren_Vorgaben
 (Abi_Jahrgang,Halbjahr,Fach_ID,Kursart,Quartal,Dauer,Auswahlzeit,IstMdlPruefung,IstAudioNotwendig,IstVideoNotwendig,Bemerkungen) VALUES
 	 (-1,2,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'BI'),'LK',1,180,0,0,0,0,NULL),
 	 (-1,2,(SELECT ID FROM EigeneSchule_Faecher esf WHERE FachKrz = 'BI'),'LK',2,180,0,0,0,0,NULL),
