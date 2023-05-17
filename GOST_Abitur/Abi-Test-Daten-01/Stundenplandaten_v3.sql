@@ -1,5 +1,5 @@
-INSERT INTO Stundenplan (ID, Schuljahresabschnitts_ID, Beginn, Ende, Beschreibung) VALUES
-(1, 1, '2019-02-11', '2019-07-12', 'Stundenplan 2. Halbjahr');
+INSERT INTO Stundenplan (ID, Schuljahresabschnitts_ID, Beginn, Ende, Beschreibung, WochentypModell) VALUES
+(1, 1, '2019-02-11', '2019-07-12', 'Stundenplan 2. Halbjahr', 2);
 
 INSERT INTO Stundenplan_Raeume(ID, Stundenplan_ID, Kuerzel, Beschreibung, Groesse) VALUES
 (1, 1, '1.01', 'Klassenraum 05a', 32),
