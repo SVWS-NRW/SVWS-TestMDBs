@@ -1,0 +1,13 @@
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: LehrerEntlastung, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: LehrerMehrleistung, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: Schueler, ID=59830, Meldung: Der Datensatz kann nicht hinzugefügt oder geändert werden, da ein Datensatz in der Tabelle 'K_Staat' mit diesem Datensatz in Beziehung stehen muss
+Schule: 123456, Tabelle: SchuelerAbgaenge, ID=10898, Meldung: Die von Ihnen vorgenommenen Änderungen an der Tabelle konnten nicht vorgenommen werden, da der Index, Primärschlüssel oder die Beziehung mehrfach vorkommende Werte enthalten würde. Ändern Sie die Daten in den Feldern, die gleiche Daten enthalten, entfernen Sie den Index, oder definieren Sie den Index neu, damit doppelte Einträge möglich sind, und versuchen Sie es erneut
+Schule: 123456, Tabelle: SchuelerTelefone, ID=56618, Meldung: Der Datensatz kann nicht hinzugefügt oder geändert werden, da ein Datensatz in der Tabelle 'Schueler' mit diesem Datensatz in Beziehung stehen muss
+Schule: 123456, Tabelle: SchuelerErzAdr, ID=94891, Meldung: Der Datensatz kann nicht hinzugefügt oder geändert werden, da ein Datensatz in der Tabelle 'Schueler' mit diesem Datensatz in Beziehung stehen muss
+Schule: 123456, Tabelle: SchuelerFehlstunden, ID=7, Meldung: Das Feld 'SchuelerFehlstunden.Datum' kann keinen Null-Wert enthalten, da die Required-Eigenschaft für dieses Feld den Wert True hat. Geben Sie in das Feld einen Wert ein
+Schule: 123456, Tabelle: SchuelerLeistungsdaten, ID=2033306, Meldung: Die von Ihnen vorgenommenen Änderungen an der Tabelle konnten nicht vorgenommen werden, da der Index, Primärschlüssel oder die Beziehung mehrfach vorkommende Werte enthalten würde. Ändern Sie die Daten in den Feldern, die gleiche Daten enthalten, entfernen Sie den Index, oder definieren Sie den Index neu, damit doppelte Einträge möglich sind, und versuchen Sie es erneut
+Schule: 123456, Tabelle: SchuelerDatenschutz, Meldung: Der Datensatz kann nicht hinzugefügt oder geändert werden, da ein Datensatz in der Tabelle 'Schueler' mit diesem Datensatz in Beziehung stehen muss

@@ -1,0 +1,28 @@
+Schule: 123456, Tabelle: EigeneSchule_Fachklassen, ID=1130, Meldung: Die von Ihnen vorgenommenen Änderungen an der Tabelle konnten nicht vorgenommen werden, da der Index, Primärschlüssel oder die Beziehung mehrfach vorkommende Werte enthalten würde. Ändern Sie die Daten in den Feldern, die gleiche Daten enthalten, entfernen Sie den Index, oder definieren Sie den Index neu, damit doppelte Einträge möglich sind, und versuchen Sie es erneut
+Schule: 123456, Tabelle: EigeneSchule_Fachklassen, ID=1131, Meldung: Die von Ihnen vorgenommenen Änderungen an der Tabelle konnten nicht vorgenommen werden, da der Index, Primärschlüssel oder die Beziehung mehrfach vorkommende Werte enthalten würde. Ändern Sie die Daten in den Feldern, die gleiche Daten enthalten, entfernen Sie den Index, oder definieren Sie den Index neu, damit doppelte Einträge möglich sind, und versuchen Sie es erneut
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
+Schule: 123456, Tabelle: EigeneSchule_FachTeilleistungen, Meldung: Null-Wert in Index oder Primärschlüssel nicht möglich
