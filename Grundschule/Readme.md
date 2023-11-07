@@ -6,3 +6,6 @@ Grundschule_JU.mdb ist eine Grundschule mit komplett jahrgangsübergreifenden Kl
 * Die Klassen haben in der Klassentabelle keinen Jahrgang.
 * Die Statistikkürzel für die Klassen sind JUA, JUB, JUC usw.
 * Es sind Leistungdaten zugewiesen.
+
+
+Grundschule_JB.mdb ist eine Grundschule mit komplett jahrgangsbezogenen Klassen.
