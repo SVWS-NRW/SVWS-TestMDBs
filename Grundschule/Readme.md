@@ -9,3 +9,5 @@ Grundschule_JU.mdb ist eine Grundschule mit komplett jahrgangsübergreifenden Kl
 
 
 Grundschule_JB.mdb ist eine Grundschule mit komplett jahrgangsbezogenen Klassen.
+
+Grundschule_Stundenplan.mdb ist eine DB mit allen Fächern in den Klassenund zugewiesenen Klassenlehrern und Religionskursen.
