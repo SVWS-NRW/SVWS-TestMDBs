@@ -1,0 +1,1 @@
+Diese Blockung entspricht der in der GymAbi.mdb hinterlegten Blockung. Darin sind jedoch zwei Kollision enthalten.

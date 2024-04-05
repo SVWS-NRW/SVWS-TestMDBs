@@ -1,0 +1,1 @@
+Diese Blockung ist eine neu geblockte Kursverteilung, die mit 14 Schienen auskommt und die LuPO-Wahlen dabei ohne Kollision abbildet. Es besteht daher aber kein DB-Bezug mehr.

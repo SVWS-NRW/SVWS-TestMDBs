@@ -1,0 +1,36 @@
+﻿"IDNr";"Krz";"Bezeichnung";"StatistikKrz";"Sortierung";"Fachgr_ID";"IstSprache"
+16;"D";"Deutsch";"D";10;110;0
+17;"E";"Englisch";"E";20;100;0
+30;"F";"Französisch ab Klasse 6";"F6";30;100;0
+72;"L";"Lateinisch ab Klasse 6";"L6";40;100;0
+165;"S";"Spanisch ab Klasse 8";"S8";50;100;0
+223;"S0";"Spanisch ab EF";"S0";60;100;0
+71;"KU";"Kunsterziehung";"KU";70;500;0
+81;"MU";"Musik";"MU";80;500;0
+239;"VP";"Vokalpraktischer Grundkurs";"VO";90;500;0
+55;"IP";"Instrumentalpraktischer Grundkurs";"IN";100;500;0
+244;"LI";"Literatur";"LI";110;500;0
+24;"EK";"Erdkunde";"EK";120;300;0
+37;"GE";"Geschichte";"GE";140;300;0
+225;"GEEBI";"Geschichte bilingual";"GE";150;300;0
+164;"SW";"Sozialwissenschaften";"SW";160;300;0
+127;"PL";"Philosophie";"PL";180;300;0
+26;"PA";"Erziehungswissenschaft";"PA";200;300;0
+27;"ER";"Ev. Religionslehre";"ER";210;900;0
+70;"KR";"Kath. Religionslehre";"KR";220;900;0
+79;"M";"Mathematik";"M";230;700;0
+192;"BI";"Biologie";"BI";250;200;0
+224;"BIEBI";"Biologie bilingual";"BI";260;200;0
+8;"CH";"Chemie";"CH";270;200;0
+128;"PH";"Physik";"PH";280;200;0
+193;"IF";"Informatik";"IF";290;200;0
+172;"SP";"Sport";"SP";300;600;0
+210;"VFD";"Vertiefungsfach Deutsch";"VX";310;1500;0
+212;"VFE";"Vertiefungsfach Englisch";"VX";320;1500;0
+213;"VFM";"Vertiefungsfach Mathematik";"VX";330;1500;0
+233;"PK-E";"Projektkurs Englisch";"PX";350;1600;0
+234;"PK-BI";"Projektkurs Biologie";"PX";360;1600;0
+235;"PK-IF";"Projektkurs Informatik";"PX";370;1600;0
+240;"PK-MPI";"Projektkurs";"PX";380;1600;0
+236;"PK-Tanz";"Projektkurs Tanz";"PX";390;1600;0
+237;"PK-Sp";"Projektkurs Sport";"PX";400;1600;0
