@@ -1,5 +1,5 @@
 {
-  "enmRevision": -1,
+  "enmRevision": 1,
   "schulnummer": 123456,
   "schuljahr": 2021,
   "anzahlAbschnitte": 2,
@@ -13,16 +13,10 @@
   "mailadresse": null,
   "noten": [
     {
-      "id": -1,
-      "kuerzel": "",
-      "notenpunkte": null,
-      "text": ""
-    },
-    {
       "id": 0,
       "kuerzel": "6",
       "notenpunkte": 0,
-      "text": "ungenuegend"
+      "text": "ungenügend"
     },
     {
       "id": 1,
@@ -14315,13 +14309,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14381,13 +14375,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14447,13 +14441,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14513,13 +14507,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14579,13 +14573,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14645,13 +14639,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14711,13 +14705,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14777,13 +14771,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14843,13 +14837,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14909,13 +14903,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -14975,13 +14969,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15041,13 +15035,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15107,13 +15101,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15173,13 +15167,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15239,13 +15233,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15305,13 +15299,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15371,13 +15365,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15437,13 +15431,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15636,13 +15630,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -15835,13 +15829,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -16034,13 +16028,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -16233,13 +16227,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -16432,13 +16426,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -16631,13 +16625,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -16830,13 +16824,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -17040,13 +17034,13 @@
         "ZB": "Die Leistungen in den Fächern  Deutsch und Mathematik sind schwach ausreichend.",
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": "Versetzt mit blub",
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -17239,13 +17233,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
@@ -17438,13 +17432,13 @@
         "ZB": null,
         "tsZB": "2024-09-23 08:10:07.0",
         "LELS": null,
-        "tsLELS": "2024-10-20 21:25:47.242",
+        "tsLELS": "2025-01-30 14:40:05.464",
         "schulformEmpf": null,
-        "tsSchulformEmpf": "2024-10-20 21:25:47.242",
+        "tsSchulformEmpf": "2025-01-30 14:40:05.464",
         "individuelleVersetzungsbemerkungen": null,
         "tsIndividuelleVersetzungsbemerkungen": "2024-09-23 08:10:07.0",
         "foerderbemerkungen": null,
-        "tsFoerderbemerkungen": "2024-10-20 21:25:47.242"
+        "tsFoerderbemerkungen": "2025-01-30 14:40:05.464"
       },
       "zp10": null,
       "bkabschluss": null
